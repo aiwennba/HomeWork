@@ -1,0 +1,21 @@
+程序名称:
+用户登入程序
+
+程序使用说明:
+1, 运行程序 python user_login.py 或者 ./user_login.py
+2, 输入用户名/密码
+3, 输错三次将会退出程序
+4, 同时在程序相同目录里面新建 user_db
+
+
+更新日志
+版本更新 2016/08/18
+
+特性:
+暂无,如有更好的建议,望指教~!
+
+注意事项
+暂无
+
+Blog:
+http://www.cnblogs.com/aiwennba/articles/5785225.html 
