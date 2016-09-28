@@ -1,0 +1,33 @@
+程序名称:
+购物车程序
+
+程序使用说明:
+1, 运行程序 python shopping_list.py 或者 ./shopping_list.py
+2, 输入用户名/密码/金额，默认用户test1/test2/test3 默认密码：123456
+3, 输错三次将会退出程序
+4, 登入程序输入错误3次用户名密码存储在 locked.db 文件中，用户购物物品存储在user_shopping.db文件中
+5，商品分三层级展示：
+        第一层菜单：
+       1，家电类
+       2，衣服
+       3，手机类
+       4，车类
+随便选择一个，比如车类，进入第二层
+      1.BMW X3   300000
+      2.bike     1000
+      3.book     100
+      4.coffice   50
+      5.iphone 6s  5000
+      6.Mac Pro    9000
+
+更新日志
+版本更新 2016/09/27
+
+特性:
+暂无,如有更好的建议,望指教~!（计划用全用函数模块改进）
+
+注意事项
+暂无
+
+Blog:
+http://www.cnblogs.com/aiwennba/articles/5858168.html 
